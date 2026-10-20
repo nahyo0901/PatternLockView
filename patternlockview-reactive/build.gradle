@@ -1,9 +1,9 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+
+group = 'com.github.nahyo0901'
 
 ext {
-    bintrayRepo = 'maven'
-    bintrayName = 'patternlockview-reactive'
-
     publishedGroupId = 'com.andrognito.patternlockview'
     libraryName = 'patternlockview-reactive'
     artifact = 'patternlockview-reactive'
@@ -42,7 +42,3 @@ dependencies {
     compile rootProject.ext.rxJava
     compile rootProject.ext.rxAndroid
 }
-
-apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
-apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'
-

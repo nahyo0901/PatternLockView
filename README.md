@@ -27,11 +27,6 @@ dependencies {
 }
 ```
 
-### Spread Some :heart:
-[![GitHub stars](https://img.shields.io/github/stars/aritraroy/PatternLockView.svg?style=social&label=Star)](https://github.com/aritraroy) [![GitHub followers](https://img.shields.io/github/followers/aritraroy.svg?style=social&label=Follow)](https://github.com/aritraroy)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/aritraroy.svg?style=social)](https://twitter.com/aritraroy) 
-
-
 # Usage
 We recommend you to check the [sample project](https://github.com/aritraroy/PatternLockView/blob/master/app/src/main/java/com/andrognito/patternlockdemo/MainActivity.java) to get a complete understanding of the library. The step-by-step implementation guide is as follows.
 
@@ -163,19 +158,6 @@ mPatternLockView.setPathEndAnimationDuration(100);
 # Contribution
 
 This library is inspired from AOSP's [LockPatternView](https://github.com/android/platform_frameworks_base/blob/master/core/java/com/android/internal/widget/LockPatternView.java). There are lots of improvements and customization options added so that you can get started without any hassle. If you find a bug or would like to improve any aspect of it, feel free to contribute with pull requests.
-
-
-# About The Author
-
-### Aritra Roy
-
-Android & Backend Developer. Blogger. Designer. Fitness Enthusiast.
-
-<a href="https://play.google.com/store/apps/details?id=com.codexapps.andrognito&hl=en"><img src="https://github.com/aritraroy/social-icons/blob/master/play-store-icon.png?raw=true" width="60"></a> <a href="https://blog.aritraroy.in/"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a>
-<a href="http://stackoverflow.com/users/2858654/aritra-roy"><img src="https://github.com/aritraroy/social-icons/blob/master/stackoverflow-icon.png?raw=true" width="60"></a>
-<a href="https://twitter.com/aritraroy"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
-<a href="http://linkedin.com/in/aritra-roy"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
-
 
 # License
 
